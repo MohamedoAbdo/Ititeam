@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "365994525327",
+    "project_id": "iti-cors",
+    "storage_bucket": "iti-cors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365994525327:android:6903886934bf774b3ca6fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365994525327-aa366uo8i7jriqgsrn87ssqp9g2tdrd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4wT9ImvJA3HXcnVGNMTEiRwxVMH0Gws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365994525327-aa366uo8i7jriqgsrn87ssqp9g2tdrd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365994525327-j8o85at53krkbrojhgu4cgjb0jm0o9j1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365994525327:android:d95de5881f9a328d3ca6fa",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365994525327-aa366uo8i7jriqgsrn87ssqp9g2tdrd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4wT9ImvJA3HXcnVGNMTEiRwxVMH0Gws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365994525327-aa366uo8i7jriqgsrn87ssqp9g2tdrd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365994525327-j8o85at53krkbrojhgu4cgjb0jm0o9j1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
